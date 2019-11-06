@@ -1,0 +1,6 @@
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\bin\Debug\InterviewTestSRP.exe.config
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\bin\Debug\InterviewTestSRP.exe
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\bin\Debug\InterviewTestSRP.pdb
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.csprojAssemblyReference.cache
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.exe
+C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.pdb
