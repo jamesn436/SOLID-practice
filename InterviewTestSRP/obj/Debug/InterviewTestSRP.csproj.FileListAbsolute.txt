@@ -4,3 +4,9 @@ C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\bin\Debug\Intervie
 C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.csprojAssemblyReference.cache
 C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.exe
 C:\Users\james\source\repos\InterviewTestSRP\InterviewTestSRP\obj\Debug\InterviewTestSRP.pdb
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\bin\Debug\InterviewTestSRP.exe.config
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\bin\Debug\InterviewTestSRP.exe
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\bin\Debug\InterviewTestSRP.pdb
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\obj\Debug\InterviewTestSRP.csprojAssemblyReference.cache
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\obj\Debug\InterviewTestSRP.exe
+C:\Users\james\Source\Repos\jamesn436\SOLID-practice\InterviewTestSRP\obj\Debug\InterviewTestSRP.pdb

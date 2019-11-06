@@ -8,6 +8,12 @@ namespace InterviewTestSRP
 {
     public static class ConsoleMessages
     {
+
+        public static void WelcomeMessage()
+        {
+            Console.WriteLine("Welcome to the program");        
+        }
+
         public static void InvalidCarSeats(int seats)
         {
             Console.WriteLine("Invalid number of seats: data entered: " + seats + " (between 1 - 8)");
@@ -42,5 +48,8 @@ namespace InterviewTestSRP
         {
             Console.WriteLine("Closing the program.");
         }
+
+        //branch test.
+
     }
 }
